@@ -1,0 +1,13 @@
+*.ko
+*.o
+*.cmd
+*.unsigned
+*.mod.*
+lib*.so*
+modules.*
+Module.*
+\.tmp_versions
+module/test
+lib/pktpool_cleaner
+lib/examples/*.dat
+lib/examples/*service
