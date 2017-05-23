@@ -108,4 +108,8 @@ communicates with the virtual switch (DPDK ring server).
 ---
 ## Papers
 
+* R. Kawashima and H. Matsuo, "A Generic and Efficient Local Service Function Chaining Framework for User VM-dedicated Micro-VNFs",
+  IEICE Transactions on Communications, vol. E100-B, no. 11, 2017. 
+  http://search.ieice.org/bin/summary_advpub.php?id=2016NNP0009
+  
 * R. Kawashima and H. Matsuo, "vNFChain: A VM-dedicated Fast Service Chaining Framework for Micro-VNFs", Proc. The Fifth European Workshop on Software Defined Networks (EWSDN 2016), The Hague, The Netherlands, Oct. 2016. (to be published).
